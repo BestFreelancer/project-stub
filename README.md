@@ -55,6 +55,11 @@ Now you can use `enb` from any point of your project.
 ```bash
 enb make
 ```
+or
+
+```bash
+gulp
+```
 
 ### The basic commands
 

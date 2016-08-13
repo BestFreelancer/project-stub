@@ -55,6 +55,10 @@ export PATH=./node_modules/.bin:$PATH
 ```bash
 enb make
 ```
+или
+```bash
+gulp
+```
 
 ### Базовые команды ENB
 
